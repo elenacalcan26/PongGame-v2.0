@@ -26,6 +26,12 @@ Este folosit un buzzer pentru a semnala coliziunile bilei cu terenul si obstacol
  - la sfarsit se afiseaza pe display castigatorul si se sarbatoresete castigul lui prin redearea unei piese la buzzer
  
  
+ ## Rezultate
+ -------------
+ 
+ ![rezultat_pongv2](https://user-images.githubusercontent.com/62752433/170882754-3cbfd0f4-677a-4f33-afc4-64c40024c4aa.jpg)
+ 
+ 
  ### Resurse
  -----------
  - https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples
