@@ -18,7 +18,7 @@ Este folosit un buzzer pentru a semnala coliziunile bilei cu terenul si obstacol
  #### Desfasurarea jocului
  ------------------------ 
  - la inceputul fiecarei runde se alege random in ce directie porneste bila 
- - jucatorii trebuie sa isi apere peretele din spatele fiecaruia, astfel daca mingea o liveste se pune punct pentru adversar 
+ - jucatorii trebuie sa isi apere peretele din spatele fiecaruia, astfel daca mingea o loveste se pune punct pentru adversar 
  - pe parcursul jocului apar obstacole si elemente de pick-up, pe pozitii random 
  - elementul de pick-up apare pe teren dupa o anumita perioada de timp dupa colectarea acestuia
  - obstacolul isi schimba pozitia si dimensiunea dupa ce este lovit de minge sau la inceperea unei noi runde
