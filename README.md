@@ -31,4 +31,4 @@ Este folosit un buzzer pentru a semnala coliziunile bilei cu terenul si obstacol
  - https://www.youtube.com/watch?v=u5drIsmr6UM&ab_channel=%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD
  - https://create.arduino.cc/projecthub/ronfrtek/arduino-oled-display-menu-with-option-to-select-e85f04
  - https://create.arduino.cc/projecthub/GeneralSpud/passive-buzzer-song-take-on-me-by-a-ha-0f04a8
- 
+ - https://gist.github.com/mikeputnam/2820675
